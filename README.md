@@ -11,6 +11,8 @@
 ![rails version](https://img.shields.io/badge/Rails-7-red)
 ![ruby version](https://img.shields.io/badge/Ruby-3.x-orange)
 
+## [Live Demo](https://infinite-stream-75498.herokuapp.com/)
+
 ## Preview
 ![screenshot](./screenshot.png)
 <hr>
